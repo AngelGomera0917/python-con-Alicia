@@ -2,7 +2,7 @@
 # Operadores Aritmeticos
 
 suma = 1000 + 2500
-resta = 1500 - 500
+resta = 1500 - 700
 multiplicacion = 10 * 6
 division = 10 / 3
 division_entera = 10 // 3
