@@ -3,7 +3,7 @@
 
 suma = 1000 + 2500
 resta = 1500 - 500
-multiplicacion = 10 * 5
+multiplicacion = 10 * 6
 division = 10 / 3
 division_entera = 10 // 3
 modulo = 10 % 3
